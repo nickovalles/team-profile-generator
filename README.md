@@ -6,10 +6,10 @@
   ## Description
   This app allows you to run node using the terminal, which allows you as a Manager to create a web application that displays the corresponding team info.
 
-  ![image](\assets\images\app.PNG)Team Profile Generator Command Line
+  ![image](/assets/images/app.PNG)Team Profile Generator Command Line
 
 
-  ![image](\assets\images\screenshot.PNG)Team Profile Generator
+  ![image](/assets/images/screenshot.PNG)Team Profile Generator
   
   ## Table of Contents
   
@@ -24,7 +24,7 @@
 
   ## Tests
   All tests have passed for this app. See screenshot below for visual verification.
-   ![image](\assets\images\tests.PNG)Team Profile Generator Tests
+   ![image](/assets/images/tests.PNG)Team Profile Generator Tests
 
   ## Questions
   If you have any questions, you can reach me by emailing [nick.ovalles@gmail.com](mailto:nick.ovalles@gmail.com) or follow the link to my GitHub profile [https://github.com/nickovalles](https://github.com/nickovalles).
