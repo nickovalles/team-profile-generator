@@ -1,16 +1,11 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Follow this link that demonstrates the functionality of the README generator! [README Generator Walkthrough Video](https://drive.google.com/file/d/1BhgV2ZpQWc4XVc4HId_nstvvoAjotFIy/view )",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
-    "inquirer": "^7.1.0",
-    "jest": "^26.0.1"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "jest"
   },
@@ -18,10 +13,14 @@
     "type": "git",
     "url": "git+https://github.com/nickovalles/team-profile-generator.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nickovalles/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/nickovalles/team-profile-generator#readme"
+  "homepage": "https://github.com/nickovalles/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
