@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 
-  Follow this link that demonstrates the functionality of the Team Profile Generator! [Team Profile Generator Walkthrough Video](https://drive.google.com/file/d/1txc3BN128av2qp7EXCUWMEoAO4fek-XK/view) 
-  Follow this link that demonstrates the passing of all tests! [Team Profile Generator Tests Walkthrough Video](https://drive.google.com/file/d/1oyJk6wZN7it7F7ujAgehuyAHBSc2aEt4/view)
+  Follow this link that demonstrates the functionality of the Team Profile Generator! [Team Profile Generator Walkthrough Video](https://drive.google.com/file/d/1ijlFSafIbYnxTbBJ7C0MvnlUkS59gQHV/view) 
+  Follow this link that demonstrates the passing of all tests! [Team Profile Generator Tests Walkthrough Video](https://drive.google.com/file/d/1khccBho9O4mgzyOT4tYAtZ3Mba4I6jlR/view)
 
   ## Description
   This app allows you to run node using the terminal, which allows you as a Manager to create a web application that displays the corresponding team info.
